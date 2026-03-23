@@ -1,0 +1,6 @@
+# SQLite Database
+login.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
